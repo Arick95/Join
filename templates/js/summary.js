@@ -63,6 +63,7 @@ function searchDate() {
       });
     earliest = minDate.reduce(function (pre, cur) {
       return Date.parse(pre) > Date.parse(cur) ? cur : pre;
+      
     });
 
     document.getElementById('insertDate').innerHTML = earliest;
@@ -145,7 +146,7 @@ function getSummaryinnerContent() {
         </div>
       </div>
       <div id="dateDiv" class="date">
-        <b id="insertDate" class="insertDate">0</b> <br />
+        <b id="insertDate" class="insertDate">2025-12-20</b> <br />
         Upcoming Deadline
       </div>
     </div>

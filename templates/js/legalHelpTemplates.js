@@ -55,7 +55,7 @@ function generateLegalNoticeScreenHTML() {
     Mozartstraße 13<br>
     76744 Wörth am Rhein<br>
     <p>Telefon: 0178 6251244<br />
-        E-Mail: Enrico.land_95@web.de</h3>
+        E-Mail: info@enrico-von-landriscina.de</h3>
     <h2>Quellen</h2>
     <p>Quelle: <a href="https://www.e-recht24.de">https://www.e-recht24.de</a></h3>
     <br>
