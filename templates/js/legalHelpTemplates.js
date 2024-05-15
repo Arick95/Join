@@ -46,16 +46,16 @@ function generateLegalNoticeScreenHTML() {
     <img onclick="returnToLastActivePage()" class="contactsDetailHeadPic2" src="./img/returnArrowDark.svg" alt="returnToListBtn">
     </div>
     <h3>Angaben gemäß § 5 TMG</h3>
-    <p>Enrico Land<br>
-        Mauermannstraße 5<br>
-        76755 Wörth am Main<br>
+    <p>Enrico Landriscina<br>
+        Mozartstraße 13<br>
+        76744 Wörth am Rhein<br>
     </p>
     <h2>Kontakt</h2>
-    Enrico Land<br>
-    Mauermannstraße 5<br>
-    76755 Wörth am Main<br>
-    <p>Telefon: 01590<br />
-        E-Mail: land.@web.de</h3>
+    Enrico Landriscina<br>
+    Mozartstraße 13<br>
+    76744 Wörth am Rhein<br>
+    <p>Telefon: 0178 6251244<br />
+        E-Mail: Enrico.land_95@web.de</h3>
     <h2>Quellen</h2>
     <p>Quelle: <a href="https://www.e-recht24.de">https://www.e-recht24.de</a></h3>
     <br>
@@ -82,13 +82,13 @@ function generateLegalNoticeScreenHTML() {
 <p>Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</p>
 <h3>Hinweis zur verantwortlichen Stelle</h3> 
 <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p> 
-<p>Dominik Wiese<br />
-   Kuckuckshorn 2c<br>
-   21107 Hamburg
+<p>Enrico Landriscina<br />
+Mozartstraße 13<br>
+76744 Wörth am Rhein
 </p>
 
-<p>Telefon: 015901923897<br />
-E-Mail: dominikwiese81@gmail.com</p>
+<p>Telefon: 0178 6251244<br />
+E-Mail:  Enrico.land_95@web.de</p>
 <h3>Verantwortliche Stelle</h3>
 <p>Verantwortliche Stelle im Sinne der Datenschutzgesetze ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen usw.) entscheidet.</p>
 <h3>Speicherdauer</h3>
