@@ -64,6 +64,8 @@
     border-radius: 100%;
     border-color: #091931;
     cursor: pointer;
+    width: 25px;
+    height: 25px;
 }
 
 .joinLogoSmall{

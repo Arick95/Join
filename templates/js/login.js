@@ -1,4 +1,4 @@
-if (window.location.href == 'https://enrico-landriscina.developerakademie.net/Join/join/templates/html/login.html') {
+if (window.location.href == 'https://enrico-von-landriscina.de/Join/templates/html/login.html') {
   let mailInput = document.getElementById('loginEmail');
   
   mailInput.addEventListener('input', renderPassword);
@@ -38,7 +38,7 @@ function leadToSignUp() {
  * 
  */
 function guestLogIn() {
-  window.location.replace("https://enrico-landriscina.developerakademie.net/Join/join/index.html");
+  window.location.replace("https://enrico-von-landriscina.de/Join");
 }
 
 /**
@@ -57,7 +57,7 @@ async function login() {
 
   if (user) {
     rememberMe(email, password);
-    window.location.replace("https://enrico-landriscina.developerakademie.net/Join/join/index.html");
+    window.location.replace("https://enrico-von-landriscina.de/Join/templates/html/login.html");
   } else {
     document.getElementById("msgBox").innerHTML = `Incorrect mail or password!`;
     document.getElementById("msgBoxDiv").classList.remove("d-none");

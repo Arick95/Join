@@ -88,7 +88,7 @@ Mozartstraße 13<br>
 </p>
 
 <p>Telefon: 0178 6251244<br />
-E-Mail:  Enrico.land_95@web.de</p>
+E-Mail:  info@enrico-von-landriscina.de</p>
 <h3>Verantwortliche Stelle</h3>
 <p>Verantwortliche Stelle im Sinne der Datenschutzgesetze ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen usw.) entscheidet.</p>
 <h3>Speicherdauer</h3>

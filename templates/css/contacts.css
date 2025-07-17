@@ -1,3 +1,5 @@
+
+
 .contentSectionContacts {
     position: fixed;
     top: 0;
@@ -50,7 +52,7 @@
     border-radius: 10px;
 }
 
-.contactsListGroupContactBg{
+.contactsListGroupContactBg {
     cursor: pointer;
     background: #2A3647;
     color: white;
@@ -142,6 +144,7 @@
 
 .contactsDetailHeadPic2 {
     cursor: pointer;
+
 }
 
 .contactsDetailHead h2 {
@@ -310,9 +313,10 @@
 }
 
 @keyframes slideInContacts {
-    from { 
+    from {
         transform: translate(150%, -50%);
     }
+
     to {
         transform: translate(-50%, -50%);
     }
@@ -322,6 +326,7 @@
     from {
         transform: translate(-50%, -50%);
     }
+
     to {
         transform: translate(150%, -50%);
     }
@@ -408,7 +413,7 @@
 }
 
 .overlayAddContactRightInputSectionHead:hover {
-   cursor: pointer;
+    cursor: pointer;
 }
 
 .overlayAddContactRightInputSectionHeadMobile {
@@ -416,7 +421,7 @@
 }
 
 .overlayAddContactRightInputSectionHeadMobile:hover {
-    cursor: pointer; 
+    cursor: pointer;
 }
 
 .overlayAddContactRightInputSection form {
@@ -444,7 +449,7 @@
     align-items: center;
 }
 
-.overlayAddContactRightButtonSection button{
+.overlayAddContactRightButtonSection button {
     border: none;
 }
 
@@ -458,9 +463,10 @@
 }
 
 @keyframes slideUpContacts {
-    from { 
+    from {
         transform: translate(-50%, 150%);
     }
+
     to {
         transform: translate(-50%, -50%);
     }
@@ -486,6 +492,6 @@
 
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
-  -webkit-appearance: none;
-  margin: 0;
+    -webkit-appearance: none;
+    margin: 0;
 }
