@@ -1,3 +1,6 @@
+
+
+
 /**
  * generate html code for help screen
  * 
@@ -31,6 +34,7 @@ function generateHelpScreenHTML() {
         <h3>By following these guidelines, you can leverage the task management tool to streamline your workflow,
             improve collaboration, and effectively manage your tasks and projects.</h3>
     </div>`;
+
 }
 
 /**
